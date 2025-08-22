@@ -1,8 +1,20 @@
 ﻿# GeoVault - GPS trezor
 
-Kouzelná krabička, která se sama otevře až na správném místě. A informace, jak najít správné místo, nedává moc konkrétně.
+Kouzelná krabička, která se sama otevře až na správném místě. A informace, jak najít správné místo, nedává moc konkrétně. Uváděné kilometry k cíli udává po skocích, tj. nestačí si zajít na dvě různá místa a zbytek vyřešit triangulací. 
 
-Box zhruba 12x12x12 cm, který zvenčí nemá žádné šrouby ani jiné spojovací prvky. Kouká jen USB-C pro nabíjení, vypínač a displej. A na správném místě víko vyskočí ven.
+Kilometry ukazuje po následujících blocích:
+```
+int kilometers[] = { 2, 3, 5, 10, 18, 30, 55, 72, 82, 90, 110, 150, 200, -1 };
+```
+
+Pro vzdálenost menší než 2 km ukazuje metry, opět po skocích:
+```
+int meters[] = { 1, 10, 20, 50, 100, 200, 300, 500, 750, 1000, 1250, 1500, 1700, 2000, -1 };
+```
+
+Box má zhruba 12x12x12 cm, a zvenčí nemá žádné šrouby ani jiné spojovací prvky. Kouká jen USB-C pro nabíjení, vypínač a displej. 
+
+Na správném místě víko samo vyskočí ven.
 
 ![Takhle to vypadá z venku](/doc/30_hotovy_vzhled.jpg "Takhle to vypadá z venku") 
 
