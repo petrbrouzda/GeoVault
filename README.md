@@ -48,7 +48,7 @@ Na každé straně krabičky je jedna deska - na jedné straně napájení (akum
 
 ![Kompletní elektronika](/doc/04_obe_desky_spojene.jpg "Kompletní elektronika") 
 
-Zámek je odvozen od tohoto modelu: https://www.printables.com/make/1354090 
+Zámek je odvozen od tohoto modelu: https://www.printables.com/model/680586-servo-operated-lock-remix
 
 # Aplikace
 
