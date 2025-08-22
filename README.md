@@ -57,7 +57,8 @@ Konfigurace wifi a IP adres je v souboru [EasyWebServer_config.h](/GeoVault/Easy
 
 Na speciální adrese http://192.168.10.1/servo lze manuálně nastavit pokyny pro posun serv - aby se dalo nastavit, jaké hodnoty jsou správné pro plné otevření a zavření. Konbfiguraci hodnot je pak potřeba zadat do souboru [pinout.h](/GeoVault/pinout.h) položek
 
-```#define SERVO1_OTEVRENO 20
+```
+#define SERVO1_OTEVRENO 20
 #define SERVO1_ZAVRENO 130
 #define SERVO1_SMER_OTEVIRANI -1
 
