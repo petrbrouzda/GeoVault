@@ -8,9 +8,18 @@ Box zhruba 12x12x12 cm, který zvenčí nemá žádné šrouby ani jiné spojova
 
 Uvnitř je kromě elektroniky úložný prostor cca 58x110x105 mm, do kterého lze umístit cílovou odměnu.
 
-Na tomhle obrázku chybí na kolících pružinky, které tlačí víko ven - důležitá součástka.
+(Na tomhle obrázku chybí na kolících pružinky, které tlačí víko ven - důležitá součástka.)
 
 ![Nákladový prostor](/doc/20_osazeny_box.jpg "Nákladový prostor") 
+
+Co se ukazuje na displeji?
+
+|  |  | 
+| ----------- | ----------- | 
+| <img src="doc/90_displej.jpg" width="300">  | <img src="doc/91_displej.jpg" width="300">   |
+| <img src="doc/92_displej.jpg" width="300">  | <img src="doc/93_displej.jpg" width="300">   |
+| <img src="doc/94_displej.jpg" width="300">  | <img src="doc/95_displej.jpg" width="300">   |
+| <img src="doc/97_displej.jpg" width="300">  |  |
 
 ## Použitá technika
 
