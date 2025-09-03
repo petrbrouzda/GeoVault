@@ -55,8 +55,8 @@ Dvě mikroserva
 USB-C konektor zašroubovatelný do stěny krabice
 https://s.click.aliexpress.com/e/_oBgHaAr
 
-Malý vypínač
-https://www.aliexpress.com/item/1005007713334301.html
+Malý vypínač 
+https://s.click.aliexpress.com/e/_oCtPgSJ
 
 
 # Sestavení
