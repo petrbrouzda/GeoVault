@@ -69,6 +69,9 @@ Na každé straně krabičky je jedna deska - na jedné straně napájení (akum
 
 Zámek je odvozen od tohoto modelu: https://www.printables.com/model/680586-servo-operated-lock-remix
 
+U serva je potřeba zkontrolovat a případně zkrátit délku páky, aby se otočila pod víkem a nenarážela. 
+
+
 # Aplikace
 
 Aplikace vystavuje WiFi a na něm webové rozhraní, kde vypisuje stav zařízení, umožňuje otevřít/zavřít zámek a nastavit cílové souřadnice.
