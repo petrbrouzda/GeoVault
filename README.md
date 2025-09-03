@@ -53,7 +53,7 @@ https://www.laskakit.cz/laskakit-bat-boost-menic-5v-0-6a-dio6605b/
 Dvě mikroserva 
 
 USB-C konektor zašroubovatelný do stěny krabice
-https://t.co/rBe1n3VQaw
+https://s.click.aliexpress.com/e/_oBgHaAr
 
 Malý vypínač
 https://www.aliexpress.com/item/1005007713334301.html
